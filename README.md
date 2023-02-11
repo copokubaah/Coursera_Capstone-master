@@ -12,7 +12,24 @@ something similar to or different from their previous locations.
 
 ### Content:
 
-Project Report:
+- Project Report: 
+https://github.com/copokubaah/copokubaah-ClusteringSimilarNeighborhoods/blob/f2bc172c35577c7706df98baaeefb8909e21541d/Report%20for%20Capstone%20Project.pdf
+
+- Project Presentation:
+https://github.com/copokubaah/copokubaah-ClusteringSimilarNeighborhoods/blob/f2bc172c35577c7706df98baaeefb8909e21541d/PPT%20for%20Capstone%20Project.pdf
+
+- Project Code:
+https://github.com/copokubaah/copokubaah-ClusteringSimilarNeighborhoods/blob/f2bc172c35577c7706df98baaeefb8909e21541d/Data%20Science%20Capstone%20Project.ipynb
+
+- Other Codes:
+
+  - https://github.com/copokubaah/copokubaah-ClusteringSimilarNeighborhoods/blob/f2bc172c35577c7706df98baaeefb8909e21541d/WebScrapingWikipedia.ipynb
+
+  - https://github.com/copokubaah/copokubaah-ClusteringSimilarNeighborhoods/blob/f2bc172c35577c7706df98baaeefb8909e21541d/AddingGeoCoordinates.ipynb
+
+  - https://github.com/copokubaah/copokubaah-ClusteringSimilarNeighborhoods/blob/f2bc172c35577c7706df98baaeefb8909e21541d/ExploringNeighborhoods.ipynb
+
+
 
 
 
